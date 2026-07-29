@@ -1,0 +1,7 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace DevelopmentalBiologyGastrulationCanonicalLaneLean
+
+end DevelopmentalBiologyGastrulationCanonicalLaneLean
+end HautevilleHouse
